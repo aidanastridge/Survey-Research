@@ -1,2 +1,1 @@
-# Survey-Research
-Finding differences among groups in time spent on the internet and types of internet activities.
+![Image](https://upload.wikimedia.org/wikipedia/commons/8/87/Logo_York_University.svg)
