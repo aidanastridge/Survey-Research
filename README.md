@@ -29,9 +29,9 @@ All in one page:
 4. Taking answer to question 3, split hours across categories
 5. Age
 6. Gender
-7. Sexual Orientation
+7. Sexual orientation
 8. Ethnicity
-9. Relationship Status
+9. Relationship status
 10. Education Level
 11. City
 12. Employment status
