@@ -21,4 +21,20 @@ One-Way ANOVA with Tukey's HSD
 
 ### Survey Instrument
 
+All in one page:
+
+1. Identify if they are a student and if they a full-time or part-time
+2. Device use
+3. Internet usage by hours per week
+4. Taking answer to question 3, split hours across categories
+5. Age
+6. Gender
+7. Sexual Orientation
+8. Ethnicity
+9. Relationship Status
+10. Education Level
+11. City
+12. Employment status
+13. Occupation
+14. Salary
 
