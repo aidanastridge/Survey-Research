@@ -5,6 +5,10 @@
 
 "Are there differences among groups in time spent on internet and types of internet activities?"
 
+### Summary
+
+In a group of five, conducted systematic research on finding differences among groups in time spent on the internet and types of internet activities. Produced the methodology and questionnaire following York University’s Human Participants Review Sub-Committee (HPRC) Protocol.
+
 ### Purpose of Study  
 
 The purpose of our study was to determine if there are differences among groups in time spent on the internet and types of internet activities among groups based on demographics characteristics which could include age, gender, educational level etc. Internet activities could include email, internet browsing, games, online activities - shopping, banking, e-commerce etc).  
