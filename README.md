@@ -13,7 +13,7 @@ Our findings could provide useful insight to individuals and businesses who want
 
 ### Population
 
-
+York University students of different backgrounds/demographics, including age, gender, and educational level. 
 
 ### Model
 
