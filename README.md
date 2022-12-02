@@ -3,7 +3,7 @@
 
 ### Research Question
 
-"Are there differences among groups in time spent on internet and types of internet activities?"
+"Are there differences among groups in time spent on the internet and types of internet activities?"
 
 ### Summary
 
